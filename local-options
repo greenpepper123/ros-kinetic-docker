@@ -1,0 +1,1 @@
+-v /home/greenpepper/.gitconfig:/root/.gitconfig -v /home/greenpepper/miscs/kinetic-docker/mount/home/.tmux.conf:/root/.tmux.conf
